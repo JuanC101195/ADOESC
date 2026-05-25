@@ -1,7 +1,7 @@
 # Progreso del proyecto ADOESC y evidencias SENA
 
 > Documento de memoria del trabajo realizado. Aprendiz: **Juan Esteban Cardozo** — Ficha **3078038** — Programa **Análisis y Desarrollo de Software (ADSO)**.
-> Última actualización: **2026-05-23**.
+> Última actualización: **2026-05-24**. Total: 18 evidencias trabajadas.
 
 Este archivo deja registro de todo lo construido para retomar el trabajo aunque se cierre la conversación.
 
@@ -55,6 +55,10 @@ php artisan db:seed --class=ResetPasswordsSeeder --force
 | GA10-220501097-AA5-EV01 | Config. de servicios (Ubuntu+Apache+MySQL) con virtualización y contenedores | PDF/Word | ✅ Lista | `ADOESC-Evidencia-GA10-AA5-EV01` |
 | GA10-220501097-AA7-EV01 | Pruebas de funcionalidad de un sitio publicado en internet | PDF | ✅ Lista | `ADOESC-Evidencia-GA10-AA7-EV01` |
 | GA10-240201529-AA2-EV01 | Modelo Canvas del emprendimiento | PDF | ✅ Lista | `ADOESC-Evidencia-GA10-240201529-AA2-EV01` |
+| GA10-240201529-AA3-EV01 | Modelo financiero (viabilidad del emprendimiento) | XLSX | ✅ Lista | `ADOESC-Evidencia-GA10-240201529-AA3-EV01` |
+| GA10-220501097-AA8-EV01 | Plan de mantenimiento y soporte (ISO 14764) | PDF | ✅ Lista | `ADOESC-Evidencia-GA10-AA8-EV01` |
+| GA10-220501097-AA9-EV01 | Plan de migración y respaldo (listas de chequeo) | PDF | ✅ Lista | `ADOESC-Evidencia-GA10-AA9-EV01` |
+| GA10-220501097-AA12-EV01 | Plan de capacitación + acta de entrega | PDF (+video) | ✅ Lista (falta grabar video y link) | `ADOESC-Evidencia-GA10-AA12-EV01` |
 
 ### Detalles y evidencia real generada
 - **AA5-EV01/EV02 (API + Postman):** API probada con curl y con **Newman** (5 peticiones, 10 aserciones, 0 fallos). Colección `ADOESC_API.postman_collection.json`. Capturas reales `newman_resumen.png`, `newman_completo.png`, y capturas de Postman tomadas por el aprendiz.
